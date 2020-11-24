@@ -1,10 +1,19 @@
-### Hello there! 🧔🏼
+## __Na razie nic tu nie ma__
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<details><summary>ale czy na pewno?</summary>
+  
+  # Hello there! 🧔🏼
+  
+  ### [Kod generatora labiryntu ~~kwadratowego~~ heksagonalnego](https://gist.github.com/Aszman/e69a89f9e6ad39e182a9f5537de0ebac)
 
-* Student of **AGH University of Science and Technology** 👨‍🎓
-* **19** years old 👶
-* **Video games** enthusiast 🕹️
+  **_Przykład labiryntu wygenerowanego przez powyższy kod:_**
+  ![nic tu nie ma](alg.gif)
 
-### [Code of hexagonal maze generator](https://gist.github.com/Aszman/e69a89f9e6ad39e182a9f5537de0ebac)
-
-**_Example of generated maze by above code with DFS displaying:_**
-![](alg.gif)
+  </details>
