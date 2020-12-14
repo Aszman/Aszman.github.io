@@ -1,7 +1,7 @@
 
 # Hello there! 🧔🏼
 
-Ostatino wraz z kilkuosobowym zespołem stworzyliśmy projekt w **Pythonie**. Jego nazwa to **Project Labyrinth**.
+Ostatnio wraz z kilkuosobowym zespołem stworzyliśmy projekt w **Pythonie**. Jego nazwa to **Project Labyrinth**.
 Pozwala on na stworzenie labiryntu o podanym rozmiarze wybranym algorytmem (*BFS*, *DFS* itd.)
 
 Jest również zaimplementowany  **labirynt heksagonalny!** 
