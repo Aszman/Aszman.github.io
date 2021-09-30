@@ -6,7 +6,7 @@ Pozwala on na stworzenie labiryntu o podanym rozmiarze wybranym algorytmem (*BFS
 
 Jest również zaimplementowany  **labirynt heksagonalny!** 
 
-## Więcej informacji w [dokumentacji](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth/wiki/1.-LABIRYNTY) projektu
+## Więcej informacji w [dokumentacji](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth/wiki) projektu
 
  [Kod generatora labiryntu heksagonalnego](https://gist.github.com/Aszman/e69a89f9e6ad39e182a9f5537de0ebac)
 
